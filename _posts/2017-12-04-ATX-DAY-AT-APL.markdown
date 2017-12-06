@@ -2,6 +2,7 @@
 layout: post
 title:  "ATX GIS Day"
 date:   2017-12-04 11:11:11 +0100
+comments: true
 thumbnail: earth.jpg
 ---
 
