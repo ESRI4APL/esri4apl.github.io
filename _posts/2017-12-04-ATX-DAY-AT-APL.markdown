@@ -1,8 +1,8 @@
 ---
 layout: post
+comments: true
 title:  "ATX GIS Day"
 date:   2017-12-04 11:11:11 +0100
-comments: true
 thumbnail: earth.jpg
 ---
 
@@ -76,6 +76,4 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
-
 {% endif %}
