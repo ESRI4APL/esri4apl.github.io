@@ -19,9 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
  This site is offered as a discussion advocating a public mapping station at the Austin Public Library. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-github_username:    jekyll
-instagram_username: jekyllrb
-twitter_username:   jekyllrb
+github_username:    esri4apl
+twitter_username:   esri4apl
 
 # Build settings
 markdown: kramdown
