@@ -6,6 +6,8 @@ comments: true
 ---
 This site is put up for advocating for a ESRI GIS public mapping station at the Austin Public Library. The arguments for this station include 
 
+This site will also serve as a platform for raising funds for the mapping station.
+
 1. Public Outreach <br>
 2. Student Engagement<br>
 3. Crowd Sourcing of Public issues<br>
