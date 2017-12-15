@@ -11,7 +11,7 @@ I showed my web map app for the<a href="http://arcg.is/2mqx9Ez" target="_blank">
 
 Had a great discussion with Carol Gibbs from the <a href="hhttp://www.austintexas.gov/neighbor" target="_blank">Austin Neighborhood Assistance Center</a> about their Property Profile tool that I have used a little bit and think is one of the best tools of this sort I have ever used!! She was kind enough to give me some names to persue on getting my web app of Tejano Trails app used. I'm probably going to wait to reach out to them until I make some improvements to the app.   
 
-Oh yeah! I really enjoyed and was so impresed by the https://www.planet.com/ exhibit from Sarah their company launches a large number (I think 15) of low orbit shoebox-sized satellites that provide a daily image of the entire planet!!! Really cool technology and I was so pleased to find out that she is from Auburn, AL which is the home of my alma mater Auburn University so War Eagle!! to Sarah 
+Oh yeah! I really enjoyed and was so impresed by the https://www.planet.com/ exhibit from Sara their company launches a large number (I think 15) of low orbit shoebox-sized satellites that provide a daily image of the entire planet!!! Really cool technology and I was so pleased to find out that she is from Auburn, AL which is the home of my alma mater Auburn University so War Eagle!! to Sarah 
 
 So overall just really pleased with the event and experience and look forward to next year's
 
