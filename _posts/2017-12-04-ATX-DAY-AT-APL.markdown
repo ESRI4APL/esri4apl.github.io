@@ -5,7 +5,7 @@ title:  "ATX GIS Day"
 date:   2017-12-04 11:11:11 +0100
 thumbnail: earth.jpg
 ---
-<a href="https://github.com/you"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/121cd7cbdc3e4855075ea8b558508b91ac463ac2/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png"></a>
+<a href="https://github.com/ESRI4APL"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/121cd7cbdc3e4855075ea8b558508b91ac463ac2/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png"></a>
 
 ATX GIS Day on 12/12/17 @ The Austin Central Library (Downtown) <br>
 
@@ -28,13 +28,9 @@ Presentations
 4:40 - 5PM Presentation of Map/App Contest
 
 Professional Development
-
 10:30 - 11:30AM ESRI MOOC or other technical training
-
 12:00 - 1:00PM Hiring Manager Panel Discussion
-
 1:00 - 2:00PM Speed Mentoring
-
 Special Activities
 
 TDB Mobile Planetarium
