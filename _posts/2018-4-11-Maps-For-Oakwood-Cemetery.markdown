@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "ATX GIS Day @ APL Post 2"
-date:   2017-12-12 11:11:11 +0100
+date:   2017-12-12 Maps 11:11:11 +0100
 thumbnail: earth.jpg
 ---
 I had a great time today at the Austin GIS Day event Austin Public Library Tuesday. I had the pleasure to meet some really cool people including Joe Faulk, APL's Director of IT who was kind enough to come down and talk to me about the idea of having a GIS mapping station at Austin Public Library (what this blog is all about). We had a great discussion about the game plan to make this happen. Some notes include the fact the the APL Foundation (http://austinlibrary.org/) will probably need to fill out the application from ESRI from their Nonprofit website ( http://www.esri.com/nonprofit ) since the one of the 1st things they ask for is a non profit tax ID. Joe also had the great idea of having volunteers teach classes from the station. I am all about this since Citizen Participation is my focus and I see this as a way to give citizens the tools to leverage the <a href="https://data.austintexas.gov/" target="_blank">Austin Open Data Portal</a>
