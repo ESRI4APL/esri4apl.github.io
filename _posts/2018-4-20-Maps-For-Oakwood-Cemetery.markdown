@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Maps of Oakwood Cemetery"
-date:   2018-4-11 Maps 11:11:11 +0100
+date:   2018-4-20 Maps 11:11:11 +0100
 thumbnail: earth.jpg
 ---
 I have created 3 ERSI web apps this week. All need some further editing to be ready for full release so should be considered betas. Hoping to get all done early this week. (4/22-4/29). All apps are reflections of my views only and created with publicly posted data under a Creative Commons Licence.  (And I'll remove anything that steps on anyones toes or isnt appropriate. They are all just for public consumption and good :) 
@@ -13,11 +13,11 @@ These are the types of apps I'd like to tutor high school and college students t
 
 One for looking up historic figures in Austins oldest cemetery. I still need to edit some of the HTML in the popups and check the accuracy of the GPS
 
-### [2. Murder, Mayheme and Misadventure tour.](https://github.com/pandao/editor.md "Heading link")
+### [2. Murder, Mayheme and Misadventure tour.](https://arcg.is/1yX5zK "Heading link")
 
 The second one Is a map tour of Save Austin Cemetaries Murder, Mayheme and Misadventure tour.
 
-### [3. Austin Homeless Services Locator.](https://github.com/pandao/editor.md "Heading link")
+### [3. Austin Homeless Services Locator.](https://goo.gl/n1R2LW "Heading link")
 I am really proud of this one and think it could do a lot of good. My plan is to build out the framework and then get some help filling in all the data during the upcoming Austin Hack For Change. 
 
 {% if page.comments %} 
