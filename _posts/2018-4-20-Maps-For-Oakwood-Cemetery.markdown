@@ -5,9 +5,7 @@ title:  "Maps of Oakwood Cemetery"
 date:   2018-4-20 Maps 11:11:11 +0100
 thumbnail: earth.jpg
 ---
-I have created 3 ERSI web apps this week. All need some further editing to be ready for full release so should be considered betas. Hoping to get all done early this week. (4/22-4/29). All apps are reflections of my views only and created with publicly posted data under a Creative Commons Licence.  (And I'll remove anything that steps on anyones toes or isnt appropriate. They are all just for public consumption and good :) 
-
-These are the types of apps I'd like to tutor high school and college students to build in a public mapping station at the Central Austin Public Library, which is what this blog is about.
+I have created 3 ERSI web apps this week. All need some further editing to be ready for full release so should be considered betas. Hoping to get all done early this week. (4/22-4/29). 
 
 ### [1. Oakwood Cemetery Historic Personsages Map](https://arcg.is/1m9Pnu "Heading link")
 
@@ -21,6 +19,10 @@ The second one Is a map tour of Save Austin Cemetaries Murder, Mayheme and Misad
 I am really proud of this one and think it could do a lot of good. My plan is to build out the framework which is close to done and then get some help filling in all the data for individual homeless services during the upcoming [Austin Hack For Change](http://atxhackforchange.org/ "Heading link"). It is intended to allow the user to put in an address or point on the map and then be given any services available within a certain distance and the details like time and phone number for each service.
 
 I'll be following up this post with one describing how each one was created along with youtube tutorials for each. This is to fit in the the tutorials for the proposed APL mapping station.
+
+All apps are reflections of my views only and created with publicly posted data under a Creative Commons Licence.  (And I'll remove anything that steps on anyones toes or isnt appropriate. They are all just for public consumption and good :) 
+
+These are the types of apps I'd like to tutor high school and college students to build in a public mapping station at the Central Austin Public Library, which is what this blog is about.
 
 Thx, Chuck Thomas
 
