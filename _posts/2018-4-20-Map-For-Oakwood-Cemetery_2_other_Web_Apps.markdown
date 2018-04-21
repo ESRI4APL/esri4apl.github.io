@@ -5,7 +5,7 @@ title:  "Map of Oakwood Cemetery and 2 other Web Apps"
 date:   2018-4-20 Maps 11:11:11 +0100
 thumbnail: earth.jpg
 ---
-I have created three ERSI web apps this week. All more editing to be ready for full release so are betas. Hoping to get all done early this week. (4/22-29). All are designed to work on desktop and mobile.<br></br>
+I have created three ERSI web apps this week. All more editing to be ready for full release so are betas. Hoping to get all done early this week. (4/22-29). All are designed to work the same on desktop or mobile.<br>
 
 
 ### [1. Oakwood Cemetery Historic Personsages Map](https://arcg.is/1m9Pnu "Heading link")
