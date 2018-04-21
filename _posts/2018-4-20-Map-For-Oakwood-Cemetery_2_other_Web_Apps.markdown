@@ -7,6 +7,7 @@ thumbnail: earth.jpg
 ---
 I have created three ERSI web apps this week. All more editing to be ready for full release so are betas. Hoping to get all done early this week. (4/22-29). <br>
 
+
 ### [1. Oakwood Cemetery Historic Personsages Map](https://arcg.is/1m9Pnu "Heading link")
 
 One for looking up historic figures in Austins oldest cemetery. I still need to edit some of the HTML in the popups and check the accuracy of the GPS. It's intended to work with the GPS on the phone so that the user can view a list of persons in the cemetery and then be guided to that person's headstone. (Click on the heading above to access app or use this link https://arcg.is/1m9Pnu)
