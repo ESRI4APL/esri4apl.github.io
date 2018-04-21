@@ -7,9 +7,9 @@ thumbnail: earth.jpg
 ---
 I have created 3 ERSI web apps this week. All need some further editing to be ready for full release so should be considered betas. Hoping to get all done early this week. (4/22-4/29). All apps are reflections of my views only and created with publicly posted data under a Creative Commons Licence.  (And I'll remove anything that steps on anyones toes or isnt appropriate. They are all just for public consumption and good :) 
 
-These are the types of apps I'd like to tutor high school and college students to build in a public mapping station at the Central Austin Public Library, which is what this blog is for.
+These are the types of apps I'd like to tutor high school and college students to build in a public mapping station at the Central Austin Public Library, which is what this blog is about.
 
-### [1. Oakwood Cemetery Historic Personsages Map](https://goo.gl/n1R2LW "Heading link")
+### [1. Oakwood Cemetery Historic Personsages Map](https://arcg.is/1m9Pnu "Heading link")
 
 One for looking up historic figures in Austins oldest cemetery. I still need to edit some of the HTML in the popups and check the accuracy of the GPS
 
