@@ -20,7 +20,7 @@ I am really proud of this one and think it could do a lot of good. My plan is to
 
 I'll be following up this post with one describing how each one was created along with youtube tutorials for each. This is to fit in the the tutorials for the proposed APL mapping station.
 
-**bold** All apps are reflections of my views only and created with publicly posted data under a Creative Commons Licence.  (And I'll remove anything that steps on anyones toes or isnt appropriate. They are all just for public consumption and good :) 
+**bold**[All apps are reflections of my views only and created with publicly posted data under a Creative Commons Licence.  (And I'll remove anything that steps on anyones toes or isnt appropriate. They are all just for public consumption and good :)] 
 
 These are the types of apps I'd like to tutor high school and college students to build in a public mapping station at the Central Austin Public Library, which is what this blog is about.
 
