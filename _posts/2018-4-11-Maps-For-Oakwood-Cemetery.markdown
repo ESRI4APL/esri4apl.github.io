@@ -5,9 +5,20 @@ title:  "Maps of Oakwood Cemetery"
 date:   2018-4-11 Maps 11:11:11 +0100
 thumbnail: earth.jpg
 ---
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum 
+I have created 3 ERSI web apps this week. All need some further editing to be ready for full release so should be considered betas. Hoping to get all done early this week. (4/22-4/29). All apps are reflections of my views only and created with publicly posted data under a Creative Commons Licence.  (And I'll remove anything that steps on anyones toes or isnt appropriate. They are all just for public consumption and good :) 
 
-So overall just really pleased with the event and experience and look forward to next year's
+These are the types of apps I'd like to tutor high school and college students to build in a public mapping station at the Central Austin Public Library, which is what this blog is for.
+
+### [1. Oakwood Cemetery Historic Personsages Map](https://goo.gl/n1R2LW "Heading link")
+
+One for looking up historic figures in Austins oldest cemetery. I still need to edit some of the HTML in the popups and check the accuracy of the GPS
+
+### [2. Murder, Mayheme and Misadventure tour.](https://github.com/pandao/editor.md "Heading link")
+
+The second one Is a map tour of Save Austin Cemetaries Murder, Mayheme and Misadventure tour.
+
+### [3. Austin Homeless Services Locator.](https://github.com/pandao/editor.md "Heading link")
+I am really proud of this one and think it could do a lot of good. My plan is to build out the framework and then get some help filling in all the data during the upcoming Austin Hack For Change. 
 
 {% if page.comments %} 
 <div id="disqus_thread"></div>
