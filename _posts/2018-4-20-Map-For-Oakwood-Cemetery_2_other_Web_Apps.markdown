@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Maps of Oakwood Cemetery"
+title:  "Map of Oakwood Cemetery and 2 other Web Apps"
 date:   2018-4-20 Maps 11:11:11 +0100
 thumbnail: earth.jpg
 ---
