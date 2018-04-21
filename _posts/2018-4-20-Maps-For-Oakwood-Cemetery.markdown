@@ -9,14 +9,14 @@ I have created 3 ERSI web apps this week. All need some further editing to be re
 
 ### [1. Oakwood Cemetery Historic Personsages Map](https://arcg.is/1m9Pnu "Heading link")
 
-One for looking up historic figures in Austins oldest cemetery. I still need to edit some of the HTML in the popups and check the accuracy of the GPS. It's intended to work with the GPS on the phone so that the user can view a list of persons in the cemetery and then be guided to that person's headstone. 
+One for looking up historic figures in Austins oldest cemetery. I still need to edit some of the HTML in the popups and check the accuracy of the GPS. It's intended to work with the GPS on the phone so that the user can view a list of persons in the cemetery and then be guided to that person's headstone. (Click on the heading above to access app or use this link https://arcg.is/1m9Pnu)
 
 ### [2. Murder, Mayheme and Misadventure tour.](https://arcg.is/1yX5zK "Heading link")
 
-The second one Is a map tour of Save Austin Cemetaries Murder, Mayheme and Misadventure tour. I recreated the tour from the youtube videos the organization posted. Still needs a lot of editing.
+The second one Is a map tour of Save Austin Cemetaries Murder, Mayheme and Misadventure tour. I recreated the tour from the youtube videos the organization posted. Still needs a lot of editing. (Click on the heading above to access app or use this link https://arcg.is/1yX5zK)
 
 ### [3. Austin Homeless Services Locator.](https://goo.gl/n1R2LW "Heading link")
-I am really proud of this one and think it could do a lot of good. My plan is to build out the framework which is close to done and then get some help filling in all the data for individual homeless services during the upcoming [Austin Hack For Change](http://atxhackforchange.org/ "Heading link"). It is intended to allow the user to put in an address or point on the map and then be given any services available within a certain distance and the details like time and phone number for each service.
+I am really proud of this one and think it could do a lot of good. My plan is to build out the framework which is close to done and then get some help filling in all the data for individual homeless services during the upcoming [Austin Hack For Change](http://atxhackforchange.org/ "Heading link"). It is intended to allow the user to put in an address or point on the map and then be given any services available within a certain distance and the details like time and phone number for each service. (Click on the heading above to access app or use this link https://goo.gl/n1R2LW)
 
 I'll be following up this post with one describing how each one was created along with youtube tutorials for each. This is to fit in the the tutorials for the proposed APL mapping station.
 
