@@ -18,7 +18,7 @@ One for looking up historic figures in Austins oldest cemetery. I still need to 
 The second one Is a map tour of Save Austin Cemetaries Murder, Mayheme and Misadventure tour.
 
 ### [3. Austin Homeless Services Locator.](https://goo.gl/n1R2LW "Heading link")
-I am really proud of this one and think it could do a lot of good. My plan is to build out the framework and then get some help filling in all the data during the upcoming Austin Hack For Change. 
+I am really proud of this one and think it could do a lot of good. My plan is to build out the framework and then get some help filling in all the data during the upcoming Austin Hack For Change[Austin Hack For Change](http://atxhackforchange.org/ "Heading link").
 
 {% if page.comments %} 
 <div id="disqus_thread"></div>
