@@ -30,8 +30,10 @@ These are the types of apps I'd like to tutor high school and college students t
 Thx, Chuck Thomas
 
 ##Just added 2 new apps, still in construction.<br>
-### [4. Famous Trees in Texas.](https://arcg.is/1zLmqy "Heading link")<br>
-Still in construction this is a map tour of Famous Tree in Texas listed on a Texas A&M Website for Famous Trees 
+### [4. Famous Trees in Texas.](https://arcg.is/09jDj8 "Heading link")<br>
+Still in construction this is a map tour of Famous Tree in Texas listed on a Texas A&M Website for Famous Trees. 
+(Click on the heading above to access app or use this link https://arcg.is/09jDj8)
+
 ### [5. Historic Sites in Austin, Tx.](https://arcg.is/1zLmqy "Heading link")<br>
 {% if page.comments %} 
 <div id="disqus_thread"></div>
