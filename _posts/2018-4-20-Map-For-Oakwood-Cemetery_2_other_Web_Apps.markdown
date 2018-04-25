@@ -7,6 +7,8 @@ thumbnail: earth.jpg
 ---
 I have created three new ArcGIS online web apps this week. All 3 need more editing to be ready for full release so are in beta. Hoping to get all done early this week. (4/22-29). All are designed to work the same on desktop or mobile.<br>
 
+* Just added 2 other maps tours as of 4/25, one for Famous Trees in Texas and One for Historic Markers in Austin.  
+
 
 ### [1. Oakwood Cemetery Historic Personsages Map](https://arcg.is/1m9Pnu "Heading link")
 
